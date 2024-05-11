@@ -1,4 +1,4 @@
-# Desaf-o-3-DPS
+# Desafio-3-DPS
 
 Integrantes:
 
