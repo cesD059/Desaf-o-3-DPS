@@ -11,5 +11,4 @@ Integrantes:
 ### LINK VIDEOs:
 - [Video](https://drive.google.com/file/d/1E60RYxA5yrVwdIBLq5bgSuo0Cdd8EkQm/view?usp=sharing)
 ### LINK EXPO
-- [Proyecto](https://snack.expo.dev/@paofer/recursoaprendizaje?platform=android)
 
